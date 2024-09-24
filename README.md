@@ -35,3 +35,10 @@ HTTP://127.0.0.1:8545";
 9. Compilar, realizar o deploy e realizar os testes com a rede simulanda no "Ganache" conectada coma o gerenciador de carteira "Metamesk"
 
 ## Funcionamento
+![image](https://github.com/user-attachments/assets/8de153f0-a635-4fda-a7d3-a95222c2de77)
+![image](https://github.com/user-attachments/assets/961605bb-fe67-464d-b7ce-f268d2d5c26c)
+
+![image](https://github.com/user-attachments/assets/833e84a8-185b-42e4-8ace-d17d43cf4d77)
+![image](https://github.com/user-attachments/assets/81aa8467-1761-4639-be81-923c0dfe92e5)
+
+
