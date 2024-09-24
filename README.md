@@ -1,10 +1,10 @@
-# Projecto Token ERC20 utilizando a ferramenta REMIX
+# Projecto NFT de Pokemon na blockchain
 
-## Este projeto foi feito um Token ERC-20 utilizando as ferramentas:
+## Neste projeto foi feito uma batalha de pokemons NFT ERC-721 utilizando as ferramentas:
 - Linguagem Solidity;
 - Ganache <https://archive.trufflesuite.com/ganache/>;
 - Remix IDE <https://remix.ethereum.org/>;
-- Metamask (estenção para instalar no navegador);
+- Metamask (extenção para instalar no navegador);
 
 ## Etapas:
 - Implementar o token ERC-20
@@ -12,7 +12,7 @@
 - Receber e enviar transações
 
 ## Passos:
-1. Instalar a estenção Metamesk;
+1. Instalar a extenção Metamesk;
 2. Abrir o Ganache e abrir uma nova rede "Project-DIO";
 3. Criar uma nova rede no Metamesk "DIONet";
 4. Conectar uma carteira no ambiente do Ganache para o Metamask importanto uma carteira pela chave privada;
