@@ -37,7 +37,8 @@ HTTP://127.0.0.1:8545";
 ## Funcionamento
 ![image](https://github.com/user-attachments/assets/8de153f0-a635-4fda-a7d3-a95222c2de77)
 ![image](https://github.com/user-attachments/assets/961605bb-fe67-464d-b7ce-f268d2d5c26c)
-
+![image](https://github.com/user-attachments/assets/ec229b41-b4e3-49a3-8b3f-993346090a8c)
+![image](https://github.com/user-attachments/assets/3721ea63-030e-4c7a-b908-47a039e0d0a2)
 ![image](https://github.com/user-attachments/assets/833e84a8-185b-42e4-8ace-d17d43cf4d77)
 ![image](https://github.com/user-attachments/assets/81aa8467-1761-4639-be81-923c0dfe92e5)
 
