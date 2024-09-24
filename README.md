@@ -10,7 +10,7 @@
   
 ## Etapas:
 - Instalar o IPFS no computador
-- ###Instalar o Ganache
+- Instalar o Ganache
   - Criar um novo workspace chamado "NFT-DIO-POKEMON"
   - Alterar o port number para "8545" por ter outros projetos rodando
   - Alterar o "HARDFORK" para "London" para não evitar incompatibilidade no Remix
