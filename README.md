@@ -20,8 +20,8 @@
 ## Passos:
 1. Instalar a extenção Metamesk;
 2. Criar um novo workspace chamado "NFT-DIO-POKEMON";
-  - Alterar o port number para "8545" por ter outros projetos rodando
-  - Alterar o "HARDFORK" para "London" para não evitar incompatibilidade no Remix
+    - Alterar o port number para "8545" por ter outros projetos rodando
+    - Alterar o "HARDFORK" para "London" para não evitar incompatibilidade no Remix
 4. Criar uma nova rede no Metamesk "DIONetwork";
 5. Conectar uma carteira no ambiente do Ganache para o Metamask importanto uma carteira pela chave privada;
 6. No remix criar o arquivo "DIOCoin.sol"
