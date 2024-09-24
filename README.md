@@ -5,7 +5,9 @@
 - Ganache <https://archive.trufflesuite.com/ganache/>;
 - Remix IDE <https://remix.ethereum.org/>;
 - Metamask (extenção para instalar no navegador);
-
+- IPFS (uma rede P2P ou Ponto a Ponto onde eu posso hospedar arquivos na minha máquina e compartilhar com qualquer outra pessoa da rede, sem a necessidade de um servidor central);
+- Imagens de pokemons;
+  
 ## Etapas:
 - Implementar o token ERC-20
 - Publicação na blockchain
