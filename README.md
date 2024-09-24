@@ -9,6 +9,12 @@
 - Imagens de pokemons;
   
 ## Etapas:
+- Instalar o IPFS no computador
+- ###Instalar o Ganache
+  - Criar um novo workspace chamado "NFT-DIO-POKEMON"
+  - Alterar o port number para "8545" por ter outros projetos rodando
+  - Alterar o "HARDFORK" para "London" para não evitar incompatibilidade no Remix
+  - 
 - Implementar o token ERC-20
 - Publicação na blockchain
 - Receber e enviar transações
